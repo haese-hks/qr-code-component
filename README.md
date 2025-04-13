@@ -20,11 +20,9 @@ A simple QR code component built as part of a Frontend Mentor challenge. The pro
 
 ### Links
 
-- Live Site URL: [QR Code Component](https://haese-hks.github.io/qr-code-component/)
+- Live Site URL: [Github Pages](https://haese-hks.github.io/qr-code-component/)
 
-- Solution URL: [Add your solution URL here](https://your-solution-link.com)
-
-- Live Site URL: [Add your live site URL here](https://your-live-site.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-IDWP4MLZsB)
 
 ### Built with
 
@@ -47,7 +45,6 @@ Basic accessibility is implemented using semantic HTML and `alt` text for images
 - Checked with W3C Validator.
 - No errors found.
 - One stylistic warning caused by Prettier formatting (`<img />` style) — does not affect HTML validity.
-
 
 I’ve just completed a front-end coding challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)! 🎉
 You can see my solution here: [Frontend Mentor solution link].
