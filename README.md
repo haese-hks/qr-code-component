@@ -10,13 +10,9 @@ A simple QR code component built as part of a Frontend Mentor challenge. The pro
 
 ### Screenshot
 
-#### Desktop
+![Desktop Screenshot](./images/Screenshot-desktopok.png)
 
-![Desktop Screenshot](./Screenshots/Screenshot-desktopok.png)
-
-#### Mobile
-
-![Mobile Screenshot](./Screenshots/Screenshot-mobile.png)
+![Mobile Screenshot](./images/Screenshot-mobile.png)
 
 ### Links
 
