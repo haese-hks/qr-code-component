@@ -4,6 +4,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
 ### Overview
 
 A simple QR code component built as part of a Frontend Mentor challenge. The project focuses on basic HTML structure, CSS layout, and responsive design.
@@ -20,6 +27,8 @@ A simple QR code component built as part of a Frontend Mentor challenge. The pro
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-IDWP4MLZsB)
 
+## My Process
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -27,7 +36,7 @@ A simple QR code component built as part of a Frontend Mentor challenge. The pro
 - Flexbox
 - Mobile-first workflow
 
-### Author
+## Author
 
 - Frontend Mentor: [@haese-hks](https://www.frontendmentor.io/profile/haese-hks)
 - GitHub: [@haese-hks](https://github.com/haese-hks)
